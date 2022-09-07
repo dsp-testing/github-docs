@@ -69,4 +69,3 @@ again
 
 logs are being tailed now
 
-fingers crossed
