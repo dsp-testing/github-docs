@@ -67,5 +67,5 @@ next
 testing logs
 again
 
-logs are being tailed now
+logs are being tailed now with correct format
 
