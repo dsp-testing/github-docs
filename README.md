@@ -66,3 +66,5 @@ next
 
 testing logs
 again
+
+logs are being tailed now
