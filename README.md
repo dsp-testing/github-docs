@@ -73,5 +73,4 @@ something is fishy
 
 another day
 
-another commit
 tailing
